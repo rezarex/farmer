@@ -1,2 +1,2 @@
 # farmer
-a FartAPI, React and Mongodb to do app
+a FastAPI, React and Mongodb to do app
